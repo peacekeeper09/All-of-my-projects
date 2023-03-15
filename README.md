@@ -1,3 +1,3 @@
-# One stop for all of my projects (PUBLIC)
+Just a repository to keep track of my current projects(NDA projects not included).
 
-A central hub for all of my projects that are public till date, note :- no NDA projects will be inlcuded here (or nowhere).
+[Website](https://peace0907.me/All-of-my-projects/)
